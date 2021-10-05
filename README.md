@@ -1,0 +1,1 @@
+# Realizar-la-instalaci-n-de-Netbeans-12-en-Linux
